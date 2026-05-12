@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manju
 - 👀 I’m interested in Android, iOS app development and cool sofware products development
-- 🌱 I’m currently learning Kotlin, flutter
+- 🌱 I’m building Android apps using AI-assisted workflows (Claude, Codex, Cursor)
 - 💞️ I’m looking to collaborate on apps in Kotlin or native android develoment
 - 📫 How to reach me manju1375@gmail.com
 
